@@ -1,0 +1,7 @@
+numpy==1.23.4
+opencv-python==4.6.0.66
+Pillow==9.3.0
+pycraft-minetest==0.8
+
+tqdm~=4.64.1
+colorama~=0.4.6
